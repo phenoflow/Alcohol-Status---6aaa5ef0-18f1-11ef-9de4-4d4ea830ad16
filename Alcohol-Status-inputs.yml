@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/alcohol-status-drinker---primary.py
+inputModule3:
+  class: File
+  path: python/alcohol-status-drinks---primary.py
+inputModule4:
+  class: File
+  path: python/alcohol-status-spirit---primary.py
+inputModule5:
+  class: File
+  path: python/alcohol-status---primary.py
+inputModule6:
+  class: File
+  path: python/light-alcohol-status---primary.py
+inputModule7:
+  class: File
+  path: python/moderate-alcohol-status---primary.py
+inputModule8:
+  class: File
+  path: python/alcohol-status-reducing---primary.py
+inputModule9:
+  class: File
+  path: python/alcohol-status-grade---primary.py
+inputModule10:
+  class: File
+  path: python/heavy-alcohol-status---primary.py
+inputModule11:
+  class: File
+  path: python/alcohol-status-consumption---primary.py
+inputModule12:
+  class: File
+  path: python/alcohol-status-drinking---primary.py
+inputModule13:
+  class: File
+  path: python/alcohol-status-problem---primary.py
+inputModule14:
+  class: File
+  path: python/alcohol-status-score---primary.py
+inputModule15:
+  class: File
+  path: python/alcohol-status-intake---primary.py
+inputModule16:
+  class: File
+  path: python/alcohol-status-limits---primary.py
+inputModule17:
+  class: File
+  path: python/alcohol-status-teetotaller---primary.py
+inputModule18:
+  class: File
+  path: python/current-alcohol-status---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
